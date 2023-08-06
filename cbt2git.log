@@ -1,0 +1,7 @@
+2023-08-06 07:00:27.309204 - Initialized conversion of CBT774
+2023-08-06 07:00:27.342305 - Received CBT.V505.FILE774.PDS from FILE774.XMI 
+2023-08-06 07:00:27.344513 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE774.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:00:27.345607 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE774.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:00:27.346577 - Found @FILE774.txt (text/plain) in CBT.V505.FILE774.PDS, moved to PDS/@FILE774
+2023-08-06 07:00:27.347476 - Found COMPRESS.txt (text/plain) in CBT.V505.FILE774.PDS, moved to PDS/COMPRESS
+2023-08-06 07:00:27.348366 - Found COMPRS38.txt (text/plain) in CBT.V505.FILE774.PDS, moved to PDS/COMPRS38
